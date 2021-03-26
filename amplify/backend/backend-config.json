@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"amplifyecommerce3025a1db": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
